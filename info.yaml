@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
- title:        "Calculator"      # Project title
+  title:        "Calculator"      # Project title
   author:       "CNMN IPN"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A calculator do basic calculation"      # One line description of what your project does
